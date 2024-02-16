@@ -76,8 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Use this to look up Outside Host IP addresses and look for domain data.  That data will allow you to drop those identified IP addresses into your chosen host groups.  
-
+I have a bunch of DACLs configured in ISE deployment 1, I want to copy all of those DACLS over to ISE deployment 2.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -125,6 +124,8 @@ This is an example of how to list things you need to use the software and how to
 Simply run the application.  You will need to provide: 
  - Source ISE URL and credentials for ERS API
  - Destination ISE URL and credentials for ERS API
+
+Follow the on screen instructions. That's it!
 
 
 
